@@ -10,6 +10,9 @@ Window {
         height: 200
         width: height
         color: "yellow"
+ /// asdasdas
+        //sdsdsds
+        //sdsdsdsd
 
         gradient: Gradient {
             GradientStop { position: 0.0; color: "transparent" }
